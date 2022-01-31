@@ -1,10 +1,13 @@
-# Spring boot Kafka Consumer (With Integration Test Cases)
+## Spring boot Kafka Consumer (With Integration Test Cases)
+
+### Run Consumer
+
 
 * `mvn clean install` 
 * `java -jar target/KafkaConsumer-0.0.1-SNAPSHOT.jar`
 
 
-### Run Consumer
+### Edit Consumer
 
 * If you use your own producer then pls make sure you update following properties of `application.yml`,
 
