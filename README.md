@@ -54,3 +54,6 @@ And then replace the listen with following,
 Here's the link for kafka producer:
 https://github.com/awnali/spring-boot-kafka-producer
 
+How to install Kafka:
+https://gist.github.com/awnali/02113a0b164e8c096e906c3d226d4749
+
